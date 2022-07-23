@@ -1,0 +1,10 @@
+-- Welcome to Liversedge!
+-- This exploit runs on WRD-API.
+-- I'm bound to change APIs soon
+-- Made by @danii.j_
+-- 2MDJR#1423
+
+-- You may populate the scripts
+-- folder w/ your custom scripts
+-- in .txt and .lua format
+-- The exploit API auto-updates
