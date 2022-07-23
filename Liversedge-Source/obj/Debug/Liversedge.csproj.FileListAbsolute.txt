@@ -1,0 +1,17 @@
+C:\Users\Danii\source\repos\Liversedge\bin\Debug\Liversedge.exe.config
+C:\Users\Danii\source\repos\Liversedge\bin\Debug\Liversedge.exe
+C:\Users\Danii\source\repos\Liversedge\bin\Debug\Liversedge.pdb
+C:\Users\Danii\source\repos\Liversedge\bin\Debug\FastColoredTextBox.dll
+C:\Users\Danii\source\repos\Liversedge\bin\Debug\WeAreDevs_API.dll
+C:\Users\Danii\source\repos\Liversedge\obj\Debug\Liversedge.csproj.AssemblyReference.cache
+C:\Users\Danii\source\repos\Liversedge\obj\Debug\Liversedge.csproj.SuggestedBindingRedirects.cache
+C:\Users\Danii\source\repos\Liversedge\obj\Debug\Liversedge.Main.resources
+C:\Users\Danii\source\repos\Liversedge\obj\Debug\Liversedge.Properties.Resources.resources
+C:\Users\Danii\source\repos\Liversedge\obj\Debug\Liversedge.csproj.GenerateResource.cache
+C:\Users\Danii\source\repos\Liversedge\obj\Debug\Liversedge.csproj.CoreCompileInputs.cache
+C:\Users\Danii\source\repos\Liversedge\obj\Debug\Liversedge.csproj.CopyComplete
+C:\Users\Danii\source\repos\Liversedge\obj\Debug\Liversedge.exe
+C:\Users\Danii\source\repos\Liversedge\obj\Debug\Liversedge.pdb
+C:\Users\Danii\source\repos\Liversedge\obj\Debug\Liversedge.SH.resources
+C:\Users\Danii\source\repos\Liversedge\bin\Debug\VisualStudioTabControl.dll
+C:\Users\Danii\source\repos\Liversedge\obj\Debug\Liversedge.ButtonIcons.resources
