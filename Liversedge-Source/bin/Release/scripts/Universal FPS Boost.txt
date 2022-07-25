@@ -1,0 +1,56 @@
+--[
+-- FPS Boost Script
+-- DO NOT EXECUTE YET!
+-- First, choose which boost you would like
+-- And remove the rest, so you can run it
+--[
+
+--Plastic Cartoon Graphics Script
+
+for _,v in pairs(workspace:GetDescendants()) do
+if v.ClassName == "Part"
+or v.ClassName == "SpawnLocation"
+or v.ClassName == "WedgePart"
+or v.ClassName == "Terrain"
+or v.ClassName == "MeshPart" then
+v.Material = "Plastic"
+end
+end
+
+print("PlastikGrafix Loaded!");
+
+--Plastic No Decals Graphics Script
+
+for _,v in pairs(workspace:GetDescendants()) do
+if v.ClassName == "Part"
+or v.ClassName == "SpawnLocation"
+or v.ClassName == "WedgePart"
+or v.ClassName == "Terrain"
+or v.ClassName == "MeshPart" then
+v.Material = "Plastic"
+end
+end
+
+print("PlastikGrafix Loaded!");
+
+--Rubbishbin Graphics Script
+
+for _,v in pairs(workspace:GetDescendants()) do
+if v.ClassName == "Part"
+or v.ClassName == "SpawnLocation"
+or v.ClassName == "WedgePart"
+or v.ClassName == "Terrain"
+or v.ClassName == "MeshPart" then
+v.BrickColor = BrickColor.new(155, 155, 155)
+v.Material = "Plastic"
+end
+end
+
+for _,v in pairs(workspace:GetDescendants()) do
+if v.ClassName == "Decal"
+or v.ClassName == "Texture" then
+v:Destroy()
+end
+end
+
+print("PlastikGrafix Loaded!");
